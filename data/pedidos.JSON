@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "id_mesa": 34,
+        "pedido":[
+            {
+                "id_prod": 5,
+                "cant": 3
+            }
+            
+        ],
+        "id_mozo":4,
+        "estado": false
+    },
+    {
+        "id": 2,
+        "id_mesa": 34,
+        "pedido":[
+            {
+                "id_prod": 10,
+                "cant": 2
+            },
+            {
+                "id_prod": 5,
+                "cant": 2
+            }
+            ,
+            {
+                "id_prod": 8,
+                "cant": 1
+            }
+        ],
+        "id_mozo":1,
+        "estado": true
+    },
+    {
+        "id": 3,
+        "id_mesa": 12,
+        "pedido":[
+            {
+                "id_prod": 6,
+                "cant": 5
+            },
+            {
+                "id_prod": 3,
+                "cant": 1
+            }
+            ,
+            {
+                "id_prod": 8,
+                "cant": 2
+            }
+        ],
+        "id_mozo":2,
+        "estado": false
+    }
+
+]
